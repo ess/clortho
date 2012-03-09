@@ -15,12 +15,12 @@ Key       | A mnemonic for referencing a value
 
 ## How Do I Do It? ##
 
-* Set up your config file (YAML).
+Set up your config file (YAML).
 
     storage_directory: /path/to/whatever
     rest_port: some_port_number
 
-* Run it
+Run it.
 
     nohup clortho -c /path/to/config
 
