@@ -51,3 +51,7 @@ Right now? Barely. Hell, I haven't even written much beyond basic database and
 bucket handling.
 
 It uses leveldb for actual storage. It's pretty nifty.
+
+It's written in Ruby for now. I hope to port it to a proper compiled language
+at some point, preferably something a little more traditional than Erlang.
+Because I don't know Erlang, like, at all.
